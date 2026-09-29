@@ -2792,4 +2792,7 @@ h2 {
   text-decoration: none;
 }
 
-
+#membership > .box {
+    max-width: 1280px;
+    margin: 5em auto 0 auto;
+}
